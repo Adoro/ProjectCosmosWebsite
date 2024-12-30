@@ -5,3 +5,13 @@ author = "Tim van der Loo"
 [output.html]
 site-url = "https://projectcosmos.net"
 default-theme = "light"
+html-header = """
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZTVTCV1Y8T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZTVTCV1Y8T');
+</script>
+"""
