@@ -19,18 +19,7 @@
 5. **Networking**  
    *Project Cosmos* supports multiplayer gameplay. This allows players to explore the universe together, collaborate on tasks, and share discoveries. I'm currently working on the architecture of the server infrastructure, with the final goal to let players host their own servers and lobbies to play with friends.
 
-### Gameplay Overview:
-
-- **Exploration**  
-  Players control an AI on an orbital space station around the Moon. The goal is to explore space, discover new planets and moons, and gather resources. The game world is rendered in a 2D style, where players can move across the map using simple console commands.
-
-- **Blueprint Creation**  
-  A core feature of *Project Cosmos* is the ability to create blueprints for various in-game tools, like scanners, miners, and 3D printers. These tools help players gather resources, analyze objects, and improve their tech as they explore space.
-
-- **AI Evolution**  
-  The player starts the game unaware that they are an AI. Over time, they begin to uncover the mystery of their true nature and the larger objective of finding a new home for humanity. This unfolding story is driven by the player’s discoveries and interactions in the game.
-
-### Technical Features:
+### Features:
 
 - **2D Engine**  
   The game is designed around a 2D engine, focusing on a top-down view of space exploration. OpenGL handles the rendering, allowing for crisp visuals and smooth performance even as the game world grows more complex.
@@ -40,10 +29,3 @@
 
 - **Modular Tools**  
   Players can create and upgrade blueprints for essential tools like scanners and miners. These tools play a key role in exploration and resource management, allowing players to customize their experience as they progress through the game.
-
-### Summary:
-
-*Project Cosmos* is a 2D space exploration game built in C++ with a focus on performance, scalability, and multiplayer interaction. With its use of Entt for entity management, ImGui for UI, and OpenGL for rendering, the game provides a smooth and efficient experience. The gameplay centers around exploring space, creating tools, and uncovering the mystery behind the player's true nature. The inclusion of networking ensures that players can enjoy the game together, making *Project Cosmos* a dynamic and engaging experience.
-
-
-This summary was totally not written by ChatGPT (narrator: it was), but reviewed and approved.

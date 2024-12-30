@@ -1,0 +1,11 @@
+# Entt
+
+Using EnTT in the development of my engine was a transformative experience. It really opened my eyes to how modern game engines like Unity and Unreal operate under the hood. EnTT is an Entity-Component-System (ECS) framework that provided me with a new way of thinking about how game objects and their behaviors are structured. Before diving into EnTT, I had a basic understanding of how game engines managed entities and components, but EnTT's approach made it much clearer.
+
+By implementing EnTT, I gained a deeper insight into the core principles of ECS architecture, which is widely used in engines like Unity and Unreal. These engines rely heavily on separating data (components) from the logic (systems) in order to achieve better performance and flexibility, especially in complex or large-scale projects. EnTT's efficiency in managing entities and components allowed me to understand why this architecture is so powerful in real-time applications.
+
+Through hands-on experience with EnTT, I also got a glimpse into the inner workings of Unity and Unreal. I began to see how they use similar ECS-based patterns to handle game object interactions and game state management. EnTT helped me realize the importance of data-oriented design and how it contributes to the performance optimizations that large engines like Unity and Unreal provide.
+
+Ultimately, working with EnTT not only improved my game engine but also enhanced my understanding of the architectural choices that drive the performance and scalability of modern game engines. It was a valuable learning experience that deepened my appreciation for the systems running beneath the surface in professional engines like Unity and Unreal.
+
+I’m excited to continue exploring EnTT and its full potential. While I’ve gained a solid understanding of its core features, I know there’s much more to discover, especially in terms of performance optimizations, advanced features, and integration with other systems like networking or multi-threading. I look forward to diving deeper into its documentation, experimenting with more complex use cases, and finding new ways to leverage its capabilities for even more efficient game development.
