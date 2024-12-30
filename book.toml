@@ -3,5 +3,5 @@ title = "Project Cosmos"
 author = "Tim van der Loo"
 
 [output.html]
-site-url = "https://adoro.github.io/ProjectCosmosWebsite/"
+site-url = "https://projectcosmos.net"
 default-theme = "light"
