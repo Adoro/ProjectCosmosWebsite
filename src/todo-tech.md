@@ -1,4 +1,4 @@
-#Tech To-Do List for Project Cosmos
+# Tech To-Do List for Project Cosmos
 
 ~~Strike through~~ means the features has been implemented!
 
