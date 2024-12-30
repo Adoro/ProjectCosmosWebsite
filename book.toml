@@ -1,0 +1,7 @@
+[book]
+title = "Project Cosmos"
+author = "Tim van der Loo"
+
+[output.html]
+site-url = "https://adoro.github.io/ProjectCosmosWebsite/"
+default-theme = "light"
