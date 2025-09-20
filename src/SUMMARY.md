@@ -16,5 +16,6 @@
     - [Website](website.md)
 - [Contact](contact.md)
 - [Posts](blog/blog.md)
+    - [2025/09/20 Update](blog/p20250920.md)
     - [2024/12/30 Welcome](blog/p20241230.md)
 - [Disclaimer & Credits](credits.md)
